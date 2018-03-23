@@ -9,22 +9,22 @@ MCGA is an Android navigation app that helps students find their way around the 
 # Features
 
 ## Search Feature
-![Search Classes](https://github.com/Vynny/MCGA/raw/master/screenshots/6.png)
-![Search Suggestions](https://github.com/Vynny/MCGA/raw/master/screenshots/8.png)
+<img src="https://github.com/Vynny/MCGA/raw/master/screenshots/6.png" alt="Search Classes" width="200px">
+<img src="https://github.com/Vynny/MCGA/raw/master/screenshots/8.png" alt="Search Suggestions" width="200px">
 
 ---
 
 ## Outdoor Campus Maps
-![SGW](https://github.com/Vynny/MCGA/raw/master/screenshots/2.png)
-![SGW Detail](https://github.com/Vynny/MCGA/raw/master/screenshots/4.png)
-![LOY](https://github.com/Vynny/MCGA/raw/master/screenshots/3.png)
+<img src="https://github.com/Vynny/MCGA/raw/master/screenshots/2.png" alt="SGW" width="200px">
+<img src="https://github.com/Vynny/MCGA/raw/master/screenshots/4.png" alt="SGW Detail" width="200px">
+<img src="https://github.com/Vynny/MCGA/raw/master/screenshots/3.png" alt="LOY" width="200px">
 
 ---
 
 ## Indoor Maps
-![H4 Indoor](https://github.com/Vynny/MCGA/raw/master/screenshots/5.png)
+<img src="https://github.com/Vynny/MCGA/raw/master/screenshots/5.png" alt="H4 Indoor" width="200px">
 
 ---
 
 ## Navigation
-![H to CC Directions](https://github.com/Vynny/MCGA/raw/master/screenshots/7.png)
+<img src="https://github.com/Vynny/MCGA/raw/master/screenshots/7.png" alt="H to CC Directions" width="200px">
