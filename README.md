@@ -24,5 +24,4 @@ MCGA is an Android navigation app that helps students find their way around the 
 ---
 
 ## Navigation
-<img src="https://github.com/Vynny/MCGA/raw/master/screenshots/9.png" alt="H to AD Directions Outdoor" width="400px">
-<img src="https://github.com/Vynny/MCGA/raw/master/screenshots/7.png" alt="H to CC Directions Indoor" width="400px">
+<img src="https://github.com/Vynny/MCGA/raw/master/screenshots/9.png" alt="H to AD Directions Outdoor" width="400px"> <img src="https://github.com/Vynny/MCGA/raw/master/screenshots/7.png" alt="H to CC Directions Indoor" width="400px">
