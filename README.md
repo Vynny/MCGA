@@ -25,7 +25,7 @@ See the enormity of the entire Concordia campus. Every building in the SGW and L
 ## Indoor Maps
 Some classrooms are just really hard to find. Take a look indoors and view fully annotated floormaps for two buildings! Tap on a classroom to set it as a navigation source or destination. Currently supports Hall (2nd, 4th) and CC (1st) floors.
 
-<img src="https://github.com/Vynny/MCGA/raw/master/screenshots/5.png" alt="H4 Indoor" width="400px"> <img src="https://github.com/Vynny/MCGA/raw/master/screenshots/11.png" alt="CC Indoor" width="400px">
+<img src="https://github.com/Vynny/MCGA/raw/master/screenshots/12.png" alt="H4 Indoor" width="400px"> <img src="https://github.com/Vynny/MCGA/raw/master/screenshots/11.png" alt="CC Indoor" width="400px">
 
 ---
 
